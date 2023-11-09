@@ -9,16 +9,16 @@ Deep learning has become a popular tool for investigating gene regulation, inclu
 Previous work has shown the utility of such frameworks. DeepChem and scverse are excellent examples. Our mission is to put together a similar ecosystem for sequence based genomics.
 
 ## Core packages
-- [SeqPro](https://www.notion.so/SeqPro-5d8fd34af9f54bc78dd41293fe692774?pvs=21) -- a Python package for processing DNA/RNA sequences for machine learning.
-- [SeqData](https://www.notion.so/SeqData-19af094cb5d44dfc90a491fe514a8a7a?pvs=21) -- a Python package for preparing machine learning-ready genomic sequence datasets.
-- [SeqExplainer](https://www.notion.so/SeqExplainer-d2cdebfd1bbb4b95b1ad1f3faef39dea?pvs=21) -- a Python package for interpreting sequence-to-function machine learning models.
-- [EUGENe](https://www.notion.so/EUGENe-c43d2225b4f9477eb2641d7615dcc095?pvs=21) -- a Python package for streamlining and customizing end-to-end deep-learning sequence analyses in regulatory genomics.
+- [SeqPro](https://github.com/ML4GLand/SeqPro) -- a Python package for processing DNA/RNA sequences for machine learning.
+- [SeqData](https://github.com/ML4GLand/SeqData) -- a Python package for preparing machine learning-ready genomic sequence datasets.
+- [SeqExplainer](https://github.com/ML4GLand/SeqExplainer) -- a Python package for interpreting sequence-to-function machine learning models.
+- [EUGENe](https://github.com/ML4GLand/EUGENe) -- a Python package for streamlining and customizing end-to-end deep-learning sequence analyses in regulatory genomics.
 
 ## Ecosystem packages
-- [SeqDatasets](https://www.notion.so/SeqDatasets-7692a97c6c9e4aa69b4228941417e524?pvs=21) -- a repository for downloading datasets and loading them with SeqData.
-- [MotifData](https://www.notion.so/MotifData-78259dce2de94b2692b69f1ec1522e4e?pvs=21) -- a Python package for handling motifs.
+- [SeqDatasets](https://github.com/ML4GLand/SeqDatasets) -- a repository for downloading datasets and loading them with SeqData.
+- [MotifData](https://github.com/ML4GLand/MotifData) -- a Python package for handling motifs.
 
 ## Usage repositories
-- [tutorials](https://www.notion.so/tutorials-7e66bcd9bc30417fa50aca7e9a20d691?pvs=21) - a repository of tutorials for ML4GLand tools.
-- [use cases](https://www.notion.so/e65573a3b0a74e95ba435ff95a041c72?pvs=21) -- a repositoy of use cases that showcase ML4GLand tools potential ecosystem packages.
+- [tutorials](https://github.com/ML4GLand/tutorials) - a repository of tutorials for ML4GLand tools.
+- [use cases](https://github.com/ML4GLand/use_cases) -- a repositoy of use cases that showcase ML4GLand tools potential ecosystem packages.
 
